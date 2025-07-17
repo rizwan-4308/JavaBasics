@@ -7,6 +7,7 @@ Each topic is organized into folders:
 
 - `01_Helloworld` — First Java program
 - `02_Variables` — Variables and data types
+- `03_UserInput` - how to take user input
 
 
 ## How to Run
